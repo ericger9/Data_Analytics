@@ -11,5 +11,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portofolio
 ### E-commerce Transaction Data
 Goals : Generate Insight from Large Datasets
+
 Skills : Python, Data Visualization, Exploratory Data Analysis
+
 Description :
