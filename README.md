@@ -15,3 +15,11 @@ Goals : Generate Insight from Large Datasets
 Skills : Python, Data Visualization, Exploratory Data Analysis
 
 Description :
+
+
+### Cohort Analysis
+Goals : Perform Cohort Analysis 
+
+SKills : Python, Data Visualization
+
+Description :
