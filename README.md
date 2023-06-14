@@ -6,8 +6,11 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portofolio
 ### Web Scrapping with Python
 Goals : Scrap Data From Website
+
 Skills : Python
+
 Description :
+
 Python File :
 
 ### E-commerce Transaction Data
