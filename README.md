@@ -10,7 +10,7 @@ Goals : Scrap Data From Website
 Description :
 The "Web Scraping with Python" portfolio showcases my ability to utilize Python for efficient web scraping. I have gained expertise in extracting data from websites and automating data collection processes. With a strong focus on ethical practices, I ensure compliance with website terms of service. This portfolio also highlights my familiarity with popular Python libraries and tools for web scraping. Through practical application, I demonstrate my proficiency in parsing HTML and extracting structured data. By showcasing real-world projects, this portfolio reflects my problem-solving skills and practical experience in web scraping using Python.
 
-Python File : [abc] (https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/01_Scrapper.ipynb)
+Python File : [abc](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/01_Scrapper.ipynb)
 
 ### E-commerce Transaction Data
 Goals : Generate Insight from Large Datasets
