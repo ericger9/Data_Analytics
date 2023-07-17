@@ -25,6 +25,6 @@ Skills : Python, Data Visualization
 Description :
 This data analytics project focuses on performing cohort analysis using Python. Cohort analysis is a valuable technique that helps businesses gain insights into customer behavior, product usage, and user retention. By grouping customers into cohorts based on specific characteristics or time periods, analysts can understand how different cohorts behave and evolve over time.
 
-The Python notebook provided demonstrates the step-by-step process of performing cohort analysis
+The Python notebook provided demonstrates the step-by-step process of performing cohort analysis.
 
 Link to Jupyer Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/02_Retail.ipynb)
