@@ -13,7 +13,7 @@ Goals : Scrap Data From Website
 Description :
 The "Web Scraping with Python" portfolio showcases my ability to utilize Python for efficient web scraping. I have gained expertise in extracting data from websites and automating data collection processes. With a strong focus on ethical practices, I ensure compliance with website terms of service. This portfolio also highlights my familiarity with popular Python libraries and tools for web scraping. Through practical application, I demonstrate my proficiency in parsing HTML and extracting structured data. By showcasing real-world projects, this portfolio reflects my problem-solving skills and practical experience in web scraping using Python.
 
-Link to Jupyer Notebook : [Notebook](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/01_Scrapper.ipynb)
+Link to Jupyer Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/01_Scrapper.ipynb)
 
 ### Cohort Analysis
 Goals : Perform Cohort Analysis 
@@ -25,4 +25,4 @@ This data analytics project focuses on performing cohort analysis using Python. 
 
 The Python notebook provided demonstrates the step-by-step process of performing cohort analysis
 
-Python File : [Notebook](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/02_Retail.ipynb)
+Link to Jupyer Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/02_Retail.ipynb)
