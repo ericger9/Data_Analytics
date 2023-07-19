@@ -29,7 +29,7 @@ The Python notebook provided demonstrates the step-by-step process of performing
 
 Link to Jupyer Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/02_Retail.ipynb)
 
-#### Retail Store Dashboard
+### Retail Store Dashboard
 Goals : Build Dashboard Using Tableau
 
 Skills : Tableau
