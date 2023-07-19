@@ -28,3 +28,13 @@ This data analytics project focuses on performing cohort analysis using Python. 
 The Python notebook provided demonstrates the step-by-step process of performing cohort analysis.
 
 Link to Jupyer Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/02_Retail.ipynb)
+
+#### Retail Store Dashboard
+Goals : Build Dashboard Using Tableau
+
+Skills : Tableau
+
+Description : 
+This project showcases my ability to create Dashboard using Tableau.
+
+Link to Tableau : [Click Here](https://public.tableau.com/views/RetailStoreMonthlyPerformanceDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
