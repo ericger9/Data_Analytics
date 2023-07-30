@@ -8,7 +8,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Portofolio
 ### Web Scrapping with Python
-Goals : Scrap Data From Website
+Objective : Scrap Data From Website
 
 Skills : Python, Web Scrapping
 
@@ -18,7 +18,7 @@ The "Web Scraping with Python" portfolio showcases my ability to utilize Python 
 Link to Jupyer Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/01_Scrapper.ipynb)
 
 ### Retail Data Analysis Using Python
-Goals : Analyze Retail Datasets, Cohort Analysis 
+Objective : Analyze Retail Datasets, Cohort Analysis 
 
 Skills : Python, Data Visualization
 
@@ -28,11 +28,21 @@ The Python notebook provided demonstrates the step-by-step process of analyzing 
 Link to Jupyer Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/02_Retail.ipynb)
 
 ### Retail Store Dashboard
-Goals : Build Dashboard Using Tableau
+Objective : Build Dashboard Using Tableau
 
-Skills : Tableau
+Skills : Tableau, Data Visualization, BI Tools
 
 Description : 
 This project showcases my ability to create Dashboard using Tableau.
 
 Link to Tableau : [Click Here](https://public.tableau.com/views/RetailStoreMonthlyPerformanceDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Implementing Linear Regression for Predictive Analysis in Python"
+Objective : Linear Regression Model
+
+Skills : Python, Machine Learning
+
+Description: 
+This project aims to implement linear regression, a fundamental machine learning algorithm, to perform predictive analysis in Python. The project will provide a solid foundation for understanding regression analysis and its practical implementation in Python.
+
+Link to Jupyter Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/03_Linear%20Regression.ipynb)
