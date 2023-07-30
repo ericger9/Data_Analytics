@@ -1,4 +1,4 @@
-# Eric Geraldine | Portofolio
+# Eric Geraldine | Portfolio
 
 ![Alt text](https://github.com/ericger9/Data_Analytics/blob/main/data_bg.jpg)
 
