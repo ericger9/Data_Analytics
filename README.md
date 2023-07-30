@@ -37,7 +37,7 @@ This project showcases my ability to create Dashboard using Tableau.
 
 Link to Tableau : [Click Here](https://public.tableau.com/views/RetailStoreMonthlyPerformanceDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### Implementing Linear Regression for Predictive Analysis in Python"
+### Implementing Linear Regression for Predictive Analysis in Python
 Objective : Linear Regression Model
 
 Skills : Python, Machine Learning
