@@ -42,4 +42,4 @@ Objective : Perform Regression Machine Learning Model
 
 Skills : Python, Machine Learning
 
-Link to Jupyter Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/03_Linear%20Regression.ipynb)
+Link to Jupyter Notebook : [Click Here](https://github.com/ericger9/Data_Analytics/blob/main/Portofolio%20Jupyter/04_Medical%20Cost%20Prediction.ipynb)
